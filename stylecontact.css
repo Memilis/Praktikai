@@ -1,0 +1,54 @@
+body{
+	background-color: rgba(60, 60, 60, 0.4);
+
+}
+a, a:hover, a:focus, a:active {
+      text-decoration: none;
+      color: inherit;
+ }
+.col-6{
+/*	background-color: red;
+*/	padding: 100px;
+}
+.col-4{
+/*	background-color: blue;
+*/	padding: 50px;
+}
+.row{
+/*	background-color: pink;
+*/}
+.col-8{
+	padding: 50px;
+}
+.kontaktai{
+
+	background-color: red;
+border-style: 
+
+	
+}
+.nav-masthead .active {
+  color: #fff;
+  border-bottom-color: #fff;
+  border-bottom: .25rem solid transparent;
+}
+
+
+
+
+.navbar-custom{
+  background-color: rgba(60, 60, 60, 1);
+  position: absolute;
+  justify-content: center;
+
+}
+.nav-link{
+ border-bottom: transparent solid 1px;
+color: #fff;
+}
+#footer{
+/*  margin-top: 30px;*/
+ max-height: 100%;
+  background-color: rgba(60, 60, 60, 1);
+  text-align: center;
+}
